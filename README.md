@@ -7,7 +7,7 @@ Have certificates in Python (Scientific Computing with Python) and HTML/CSS (Res
   Main interest in back end or full stack development, but any practical experience at this time would be very helpful.
 - 💞️ I’m looking to collaborate. If some team is in need for help in junior level programming activities, I’m ready to participate with great pleasure.
 - 📫 You can reach me by email: rytis.cesna@gmail.com.
-  Bye. and have a good coding!
+  Bye, and have a good coding!
 
 <!---
 tiborg2/tiborg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
